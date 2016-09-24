@@ -1,0 +1,17 @@
+h1{ 
+	color: red;
+}
+div{
+    width: 200px;
+    height: 200px;
+    background-image: url("../img/maxresdegault.jpg");
+	 border-radius:50%;
+	 background-color: green;
+	 border: 8px solid brown;
+
+	 display: inline;
+	 margin: 20px 10px 20px 50px;
+	 border: 20px solid gray
+
+
+}
